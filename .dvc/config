@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = C:/C:/Users/teemu.leivo/dvc_remote
+    url = C:/Users/teemu.leivo/dvc_remote
