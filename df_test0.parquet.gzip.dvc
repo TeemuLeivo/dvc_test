@@ -1,0 +1,3 @@
+outs:
+- md5: d6a4db4afb2b2a49a73c21de78bd3e33
+  path: df_test0.parquet.gzip
